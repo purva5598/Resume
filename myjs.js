@@ -1,4 +1,4 @@
-alert('Welcome to My World.');
+alert('Welcome');
 
 function onClickMenu(){
 	document.getElementById("menu").classList.toggle("change");
